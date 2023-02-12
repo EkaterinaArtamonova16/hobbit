@@ -1,0 +1,15 @@
+/Users/ekaterinaartamonova/Desktop/C#/example test/bin/Debug/net6.0/example test
+/Users/ekaterinaartamonova/Desktop/C#/example test/bin/Debug/net6.0/example test.deps.json
+/Users/ekaterinaartamonova/Desktop/C#/example test/bin/Debug/net6.0/example test.runtimeconfig.json
+/Users/ekaterinaartamonova/Desktop/C#/example test/bin/Debug/net6.0/example test.dll
+/Users/ekaterinaartamonova/Desktop/C#/example test/bin/Debug/net6.0/example test.pdb
+/Users/ekaterinaartamonova/Desktop/C#/example test/obj/Debug/net6.0/example test.csproj.AssemblyReference.cache
+/Users/ekaterinaartamonova/Desktop/C#/example test/obj/Debug/net6.0/example test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaartamonova/Desktop/C#/example test/obj/Debug/net6.0/example test.AssemblyInfoInputs.cache
+/Users/ekaterinaartamonova/Desktop/C#/example test/obj/Debug/net6.0/example test.AssemblyInfo.cs
+/Users/ekaterinaartamonova/Desktop/C#/example test/obj/Debug/net6.0/example test.csproj.CoreCompileInputs.cache
+/Users/ekaterinaartamonova/Desktop/C#/example test/obj/Debug/net6.0/example test.dll
+/Users/ekaterinaartamonova/Desktop/C#/example test/obj/Debug/net6.0/refint/example test.dll
+/Users/ekaterinaartamonova/Desktop/C#/example test/obj/Debug/net6.0/example test.pdb
+/Users/ekaterinaartamonova/Desktop/C#/example test/obj/Debug/net6.0/example test.genruntimeconfig.cache
+/Users/ekaterinaartamonova/Desktop/C#/example test/obj/Debug/net6.0/ref/example test.dll
